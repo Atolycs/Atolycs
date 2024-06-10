@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Tiny Programmer born out of a pain in the ass.
-
+Tiny Programmer born out of a pain in the ass.<br>
 [gh-get-private-email](https://github.com/atolycs/gh-get-private-email): Get your github commit only email address
 
 
-WIP:
-
+WIP:<br>
 [setup-tools](https://github.com/atolycs/setup-tools): My PC initial setup tool.
+
 
 
 <!--
