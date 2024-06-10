@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-* [Ardent Build System](https://github.com/ardentteams/ardent-build-system.git)
-My Arch Linux Based Custom Linux, Package Build System. Including GitHub Actions.
+Tiny Programmer born out of a pain in the ass.
+[gh-get-private-email](https://github.com/atolycs/gh-get-private-email): Get your github commit only email address
+
+
+WIP:
+
+[setup-tools](https://github.com/atolycs/setup-tools): My PC initial setup tool.
+
 
 <!--
 **Atolycs/Atolycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
