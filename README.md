@@ -7,7 +7,8 @@ Tiny Programmer born out of a pain in the ass.<br>
 WIP:<br>
 [setup-tools](https://github.com/atolycs/setup-tools): My PC initial setup tool.
 
-
+# My Blog
+[Tech Blog](https://blog.atolycs.dev)
 
 <!--
 **Atolycs/Atolycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
